@@ -1,0 +1,1018 @@
+Country Name,Country Code,Indicator Name,Indicator Code,Year,Value,SOFI_Name,Weight,Domain,Direction,Normalized,SOFI_Num,Unit
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2000,3947.2772283739214,GNI per capita,62.3,Economic,up,0.0,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2001,4205.61957641032,GNI per capita,62.3,Economic,up,0.027872700419374168,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2002,4271.115225379756,GNI per capita,62.3,Economic,up,0.03493906261811199,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2003,4416.452955573579,GNI per capita,62.3,Economic,up,0.05061963161547007,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2004,4505.661318543426,GNI per capita,62.3,Economic,up,0.06024437179012782,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2005,5210.8046124679095,GNI per capita,62.3,Economic,up,0.13632267615515067,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2006,5523.063086947876,GNI per capita,62.3,Economic,up,0.17001241761157126,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2007,5599.071103945126,GNI per capita,62.3,Economic,up,0.17821296507635065,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2008,5857.154729391861,GNI per capita,62.3,Economic,up,0.20605775177082356,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2009,6140.038200379574,GNI per capita,62.3,Economic,up,0.23657820767115598,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2010,6740.8835238234415,GNI per capita,62.3,Economic,up,0.30140374566763384,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2011,7076.849368733395,GNI per capita,62.3,Economic,up,0.3376512885791726,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2012,7721.88625231596,GNI per capita,62.3,Economic,up,0.4072446787151577,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2013,8059.226909711007,GNI per capita,62.3,Economic,up,0.4436405509146397,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2014,8588.049380420662,GNI per capita,62.3,Economic,up,0.5006955030475619,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2015,8836.795753190532,GNI per capita,62.3,Economic,up,0.527532888328444,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2016,9477.0904655313,GNI per capita,62.3,Economic,up,0.5966146429568764,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2017,10040.573992358068,GNI per capita,62.3,Economic,up,0.6574091958200485,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2018,10732.116989576702,GNI per capita,62.3,Economic,up,0.7320201565668918,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2019,11446.365944549712,GNI per capita,62.3,Economic,up,0.809080875795196,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2020,11666.9147806544,GNI per capita,62.3,Economic,up,0.8328760130745146,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2021,11432.469395134054,GNI per capita,62.3,Economic,up,0.8075815693064623,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2022,12370.465507963858,GNI per capita,62.3,Economic,up,0.9087824945367269,1,PPP int$
+Vietnam,VNM,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2023,13215.928781663197,GNI per capita,62.3,Economic,up,1.0,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2000,5213.31840079889,GNI per capita,62.3,Economic,up,0.13659389018413082,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2001,5258.038035068302,GNI per capita,62.3,Economic,up,0.14141871653695032,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2002,5344.148208555064,GNI per capita,62.3,Economic,up,0.15070919131547444,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2003,5501.680523288906,GNI per capita,62.3,Economic,up,0.16770544085923217,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2004,5743.3839479933,GNI per capita,62.3,Economic,up,0.19378295853424043,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2005,5933.991932338945,GNI per capita,62.3,Economic,up,0.21434776057149055,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2006,6111.390856619295,GNI per capita,62.3,Economic,up,0.2334874297305274,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2007,6386.0720009878105,GNI per capita,62.3,Economic,up,0.2631229320243898,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2008,6566.059964890628,GNI per capita,62.3,Economic,up,0.2825419341163331,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2009,6684.028595839412,GNI per capita,62.3,Economic,up,0.29526963568872844,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2010,7010.7752903223045,GNI per capita,62.3,Economic,up,0.33052251930446164,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2011,7104.059627660332,GNI per capita,62.3,Economic,up,0.3405870186333767,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2012,7459.372766490283,GNI per capita,62.3,Economic,up,0.3789219519067995,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2013,7864.441577416534,GNI per capita,62.3,Economic,up,0.4226250524708184,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2014,8214.450077136136,GNI per capita,62.3,Economic,up,0.4603876652637646,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2015,8589.122043565736,GNI per capita,62.3,Economic,up,0.5008112332742197,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2016,9052.56592006996,GNI per capita,62.3,Economic,up,0.5508124523123608,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2017,9547.828287763572,GNI per capita,62.3,Economic,up,0.6042465861608658,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2018,9987.924753098778,GNI per capita,62.3,Economic,up,0.6517288399498782,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2019,10397.684957665935,GNI per capita,62.3,Economic,up,0.6959380975976901,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2020,9101.183507982943,GNI per capita,62.3,Economic,up,0.5560578310638935,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2021,9172.839656706892,GNI per capita,62.3,Economic,up,0.5637888530266858,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2022,10003.414089576523,GNI per capita,62.3,Economic,up,0.6533999931255792,1,PPP int$
+Philippines,PHL,"GNI per capita, PPP (constant 2021 international $)",NY.GNP.PCAP.PP.KD,2023,10954.707872405936,GNI per capita,62.3,Economic,up,0.7560356114094293,1,PPP int$
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2002,29.8,Income Inequality,66.6,Economic,down,0.724770642201835,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2003,29.25,Income Inequality,66.6,Economic,down,0.7752293577981653,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2004,28.7,Income Inequality,66.6,Economic,down,0.8256880733944956,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2005,28.2,Income Inequality,66.6,Economic,down,0.871559633027523,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2006,27.7,Income Inequality,66.6,Economic,down,0.9174311926605506,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2007,27.85,Income Inequality,66.6,Economic,down,0.9036697247706421,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2008,28.0,Income Inequality,66.6,Economic,down,0.889908256880734,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2009,29.45,Income Inequality,66.6,Economic,down,0.7568807339449544,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2010,30.9,Income Inequality,66.6,Economic,down,0.6238532110091746,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2011,29.3,Income Inequality,66.6,Economic,down,0.7706422018348624,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2012,27.7,Income Inequality,66.6,Economic,down,0.9174311926605506,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2013,27.25,Income Inequality,66.6,Economic,down,0.9587155963302753,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2014,26.8,Income Inequality,66.6,Economic,down,1.0,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2015,26.950000000000003,Income Inequality,66.6,Economic,down,0.9862385321100916,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2016,27.1,Income Inequality,66.6,Economic,down,0.9724770642201834,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2017,27.3,Income Inequality,66.6,Economic,down,0.9541284403669725,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2018,27.5,Income Inequality,66.6,Economic,down,0.9357798165137615,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2019,28.0,Income Inequality,66.6,Economic,down,0.889908256880734,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2020,28.5,Income Inequality,66.6,Economic,down,0.8440366972477065,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2021,28.3,Income Inequality,66.6,Economic,down,0.8623853211009175,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2022,28.1,Income Inequality,66.6,Economic,down,0.8807339449541284,2,% top 10
+Vietnam,VNM,Income share held by highest 10%,SI.DST.10TH.10,2023,28.1,Income Inequality,66.6,Economic,down,0.8807339449541284,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2000,37.7,Income Inequality,66.6,Economic,down,0.0,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2001,37.333333333333336,Income Inequality,66.6,Economic,down,0.033639143730886834,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2002,36.96666666666667,Income Inequality,66.6,Economic,down,0.06727828746177378,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2003,36.6,Income Inequality,66.6,Economic,down,0.10091743119266061,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2004,36.6,Income Inequality,66.6,Economic,down,0.10091743119266061,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2005,36.6,Income Inequality,66.6,Economic,down,0.10091743119266061,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2006,36.6,Income Inequality,66.6,Economic,down,0.10091743119266061,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2007,36.5,Income Inequality,66.6,Economic,down,0.11009174311926628,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2008,36.4,Income Inequality,66.6,Economic,down,0.11926605504587195,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2009,36.3,Income Inequality,66.6,Economic,down,0.12844036697247752,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2010,36.3,Income Inequality,66.6,Economic,down,0.12844036697247752,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2011,36.3,Income Inequality,66.6,Economic,down,0.12844036697247752,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2012,36.3,Income Inequality,66.6,Economic,down,0.12844036697247752,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2013,35.83333333333333,Income Inequality,66.6,Economic,down,0.17125382262997013,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2014,35.36666666666667,Income Inequality,66.6,Economic,down,0.21406727828746197,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2015,34.9,Income Inequality,66.6,Economic,down,0.2568807339449545,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2016,34.43333333333333,Income Inequality,66.6,Economic,down,0.299694189602447,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2017,33.96666666666667,Income Inequality,66.6,Economic,down,0.3425076452599388,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2018,33.5,Income Inequality,66.6,Economic,down,0.3853211009174313,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2019,33.166666666666664,Income Inequality,66.6,Economic,down,0.4159021406727833,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2020,32.833333333333336,Income Inequality,66.6,Economic,down,0.4464831804281345,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2021,32.5,Income Inequality,66.6,Economic,down,0.4770642201834864,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2022,32.05,Income Inequality,66.6,Economic,down,0.5183486238532115,2,% top 10
+Philippines,PHL,Income share held by highest 10%,SI.DST.10TH.10,2023,31.6,Income Inequality,66.6,Economic,down,0.5596330275229358,2,% top 10
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,2.26,Unemployment,62.6,Economic,down,0.5869636423190305,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,2.76,Unemployment,62.6,Economic,down,0.4231903046184081,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,2.12,Unemployment,62.6,Economic,down,0.6328201768752046,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,2.25,Unemployment,62.6,Economic,down,0.5902391090730429,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,2.14,Unemployment,62.6,Economic,down,0.6262692433671797,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,2.078,Unemployment,62.6,Economic,down,0.646577137242057,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,2.046,Unemployment,62.6,Economic,down,0.6570586308548969,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,2.026,Unemployment,62.6,Economic,down,0.6636095643629218,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,1.889,Unemployment,62.6,Economic,down,0.7084834588928921,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,1.737,Unemployment,62.6,Economic,down,0.7582705535538814,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,1.114,Unemployment,62.6,Economic,down,0.9623321323288568,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,0.999,Unemployment,62.6,Economic,down,1.0,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,1.027,Unemployment,62.6,Economic,down,0.9908286930887652,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,1.316,Unemployment,62.6,Economic,down,0.8961677038978054,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,1.256,Unemployment,62.6,Economic,down,0.9158205044218801,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,1.848,Unemployment,62.6,Economic,down,0.7219128725843431,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,1.848,Unemployment,62.6,Economic,down,0.7219128725843431,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,1.874,Unemployment,62.6,Economic,down,0.7133966590239108,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,1.161,Unemployment,62.6,Economic,down,0.9469374385849983,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,1.681,Unemployment,62.6,Economic,down,0.7766131673763511,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,2.103,Unemployment,62.6,Economic,down,0.6383884703570257,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,2.383,Unemployment,62.6,Economic,down,0.5466754012446773,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,1.57,Unemployment,62.6,Economic,down,0.8129708483458893,3,%
+Vietnam,VNM,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,1.645,Unemployment,62.6,Economic,down,0.7884048476907959,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2000,3.77,Unemployment,62.6,Economic,down,0.09236816246315083,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2001,3.698,Unemployment,62.6,Economic,down,0.11595152309204049,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2002,3.616,Unemployment,62.6,Economic,down,0.1428103504749425,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2003,3.527,Unemployment,62.6,Economic,down,0.17196200458565336,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2004,3.554,Unemployment,62.6,Economic,down,0.1631182443498198,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2005,3.795,Unemployment,62.6,Economic,down,0.08417949557811977,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2006,4.052,Unemployment,62.6,Economic,down,0.0,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2007,3.434,Unemployment,62.6,Economic,down,0.2024238453979691,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2008,3.72,Unemployment,62.6,Economic,down,0.10874549623321306,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2009,3.858,Unemployment,62.6,Economic,down,0.06354405502784133,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2010,3.605,Unemployment,62.6,Economic,down,0.14641336390435622,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2011,3.592,Unemployment,62.6,Economic,down,0.15067147068457243,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2012,3.504,Unemployment,62.6,Economic,down,0.17949557811988193,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2013,3.497,Unemployment,62.6,Economic,down,0.18178840484769077,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2014,3.6,Unemployment,62.6,Economic,down,0.14805109728136245,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2015,3.068,Unemployment,62.6,Economic,down,0.32230592859482465,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2016,2.695,Unemployment,62.6,Economic,down,0.44448083851948905,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2017,2.552,Unemployment,62.6,Economic,down,0.4913200131018669,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2018,2.338,Unemployment,62.6,Economic,down,0.5614150016377333,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2019,2.237,Unemployment,62.6,Economic,down,0.5944972158532591,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2020,2.522,Unemployment,62.6,Economic,down,0.5011464133639043,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2021,3.398,Unemployment,62.6,Economic,down,0.21421552571241387,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2022,2.598,Unemployment,62.6,Economic,down,0.47625286603340977,3,%
+Philippines,PHL,"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,2023,2.2,Unemployment,62.6,Economic,down,0.6066164428431051,3,%
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2002,43.3,Poverty Rate,63.61,Economic,down,0.0,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2003,37.1,Poverty Rate,63.61,Economic,down,0.14761904761904754,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2004,30.9,Poverty Rate,63.61,Economic,down,0.2952380952380953,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2005,27.3,Poverty Rate,63.61,Economic,down,0.38095238095238093,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2006,23.7,Poverty Rate,63.61,Economic,down,0.4666666666666667,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2007,20.65,Poverty Rate,63.61,Economic,down,0.5392857142857144,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2008,17.6,Poverty Rate,63.61,Economic,down,0.611904761904762,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2009,11.4,Poverty Rate,63.61,Economic,down,0.7595238095238095,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2010,5.2,Poverty Rate,63.61,Economic,down,0.9071428571428571,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2011,4.45,Poverty Rate,63.61,Economic,down,0.925,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2012,3.7,Poverty Rate,63.61,Economic,down,0.9428571428571428,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2013,3.55,Poverty Rate,63.61,Economic,down,0.9464285714285714,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2014,3.4,Poverty Rate,63.61,Economic,down,0.95,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2015,2.95,Poverty Rate,63.61,Economic,down,0.9607142857142857,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2016,2.5,Poverty Rate,63.61,Economic,down,0.9714285714285714,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2017,2.35,Poverty Rate,63.61,Economic,down,0.975,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2018,2.2,Poverty Rate,63.61,Economic,down,0.9785714285714285,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2019,1.75,Poverty Rate,63.61,Economic,down,0.9892857142857143,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2020,1.3,Poverty Rate,63.61,Economic,down,1.0,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2021,1.4500000000000002,Poverty Rate,63.61,Economic,down,0.9964285714285714,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2022,1.6,Poverty Rate,63.61,Economic,down,0.9928571428571429,4,% at $2.15/day
+Vietnam,VNM,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2023,1.6,Poverty Rate,63.61,Economic,down,0.9928571428571429,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2000,25.9,Poverty Rate,63.61,Economic,down,0.41428571428571437,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2001,25.366666666666667,Poverty Rate,63.61,Economic,down,0.426984126984127,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2002,24.83333333333333,Poverty Rate,63.61,Economic,down,0.4396825396825398,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2003,24.3,Poverty Rate,63.61,Economic,down,0.45238095238095233,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2004,24.9,Poverty Rate,63.61,Economic,down,0.4380952380952381,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2005,25.5,Poverty Rate,63.61,Economic,down,0.42380952380952386,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2006,26.1,Poverty Rate,63.61,Economic,down,0.4095238095238095,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2007,24.73333333333333,Poverty Rate,63.61,Economic,down,0.44206349206349216,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2008,23.366666666666667,Poverty Rate,63.61,Economic,down,0.4746031746031746,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2009,22.0,Poverty Rate,63.61,Economic,down,0.5071428571428571,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2010,21.766666666666666,Poverty Rate,63.61,Economic,down,0.5126984126984128,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2011,21.53333333333333,Poverty Rate,63.61,Economic,down,0.5182539682539683,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2012,21.3,Poverty Rate,63.61,Economic,down,0.5238095238095238,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2013,19.066666666666663,Poverty Rate,63.61,Economic,down,0.5769841269841272,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2014,16.833333333333332,Poverty Rate,63.61,Economic,down,0.6301587301587301,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2015,14.6,Poverty Rate,63.61,Economic,down,0.6833333333333333,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2016,12.5,Poverty Rate,63.61,Economic,down,0.7333333333333334,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2017,10.4,Poverty Rate,63.61,Economic,down,0.7833333333333333,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2018,8.3,Poverty Rate,63.61,Economic,down,0.8333333333333333,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2019,8.233333333333334,Poverty Rate,63.61,Economic,down,0.8349206349206348,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2020,8.166666666666666,Poverty Rate,63.61,Economic,down,0.8365079365079365,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2021,8.1,Poverty Rate,63.61,Economic,down,0.8380952380952381,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2022,6.699999999999999,Poverty Rate,63.61,Economic,down,0.8714285714285714,4,% at $2.15/day
+Philippines,PHL,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),SI.POV.DDAY,2023,5.3,Poverty Rate,63.61,Economic,down,0.9047619047619048,4,% at $2.15/day
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2000,4.163924079556931,FDI Inflows,54.1,Economic,up,0.3989605402212787,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2001,3.977335452705721,FDI Inflows,54.1,Economic,up,0.37856687178675047,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2002,3.992687051339961,FDI Inflows,54.1,Economic,up,0.38024476297320686,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2003,3.666012299895834,FDI Inflows,54.1,Economic,up,0.344540032844098,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2004,3.544081072881993,FDI Inflows,54.1,Economic,up,0.33121325587221767,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2005,3.3904036393087096,FDI Inflows,54.1,Economic,up,0.31441669823067425,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2006,3.616000904325218,FDI Inflows,54.1,Economic,up,0.3390739128751221,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2007,8.654717714348049,FDI Inflows,54.1,Economic,up,0.8897930091736926,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2008,9.6630390545572,FDI Inflows,54.1,Economic,up,1.0,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2009,7.168819888842765,FDI Inflows,54.1,Economic,up,0.7273881075871371,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2010,5.434739293344299,FDI Inflows,54.1,Economic,up,0.5378574523690927,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2011,4.304874349021606,FDI Inflows,54.1,Economic,up,0.41436605078067734,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2012,4.278322876811744,FDI Inflows,54.1,Economic,up,0.41146404153266297,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2013,4.164545172773247,FDI Inflows,54.1,Economic,up,0.39902842415040257,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,3.940861890519609,FDI Inflows,54.1,Economic,up,0.37458040301637435,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,4.931907733290215,FDI Inflows,54.1,Economic,up,0.48289922534737384,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,4.900893029167459,FDI Inflows,54.1,Economic,up,0.47950939605740933,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,5.011487217496808,FDI Inflows,54.1,Economic,up,0.4915970631657216,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,4.9982831962232765,FDI Inflows,54.1,Economic,up,0.49015389679272725,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,4.821074861051002,FDI Inflows,54.1,Economic,up,0.47078547068699284,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,4.558361967824236,FDI Inflows,54.1,Economic,up,0.442071611067807,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,4.273145661901873,FDI Inflows,54.1,Economic,up,0.41089818494178726,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,4.329473089108825,FDI Inflows,54.1,Economic,up,0.41705463131053955,6,% of GDP
+Vietnam,VNM,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,4.264071098436864,FDI Inflows,54.1,Economic,up,0.40990635793916375,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2000,1.7772245261351234,FDI Inflows,54.1,Economic,up,0.13810027147545412,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2001,0.96298544393499,FDI Inflows,54.1,Economic,up,0.04910598415447188,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2002,2.098275045165883,FDI Inflows,54.1,Economic,up,0.17319028712291137,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2003,0.5652632434321023,FDI Inflows,54.1,Economic,up,0.005635946226732748,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2004,0.6231447779634542,FDI Inflows,54.1,Economic,up,0.0119622526240427,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2005,1.5490600924923132,FDI Inflows,54.1,Economic,up,0.11316247174571019,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2006,2.120918864792172,FDI Inflows,54.1,Economic,up,0.17566519975474099,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2007,1.871212458877057,FDI Inflows,54.1,Economic,up,0.14837291654247745,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2008,0.7378005892152417,FDI Inflows,54.1,Economic,up,0.02449384491999429,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2009,1.1732482124642734,FDI Inflows,54.1,Economic,up,0.0720871768341926,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2010,0.5136980495176585,FDI Inflows,54.1,Economic,up,0.0,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2011,0.8569630029859625,FDI Inflows,54.1,Economic,up,0.03751799755624263,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2012,1.2276300070311883,FDI Inflows,54.1,Economic,up,0.07803097044041638,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2013,1.3164263837819732,FDI Inflows,54.1,Economic,up,0.08773619147238743,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2014,1.9293752280221632,FDI Inflows,54.1,Economic,up,0.15472996117695653,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2015,1.8401801071794244,FDI Inflows,54.1,Economic,up,0.1449811584168879,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2016,2.598508034942113,FDI Inflows,54.1,Economic,up,0.22786449693766164,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2017,3.122387784048964,FDI Inflows,54.1,Economic,up,0.2851232381757785,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2018,2.868338260704975,FDI Inflows,54.1,Economic,up,0.25735626313308896,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2019,2.3011749859829447,FDI Inflows,54.1,Economic,up,0.19536674122002093,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2020,1.885863632111708,FDI Inflows,54.1,Economic,up,0.14997425299136277,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2021,3.040788553100448,FDI Inflows,54.1,Economic,up,0.2762046471096492,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2022,2.347509723336898,FDI Inflows,54.1,Economic,up,0.20043101167714256,6,% of GDP
+Philippines,PHL,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2023,2.042103548206695,FDI Inflows,54.1,Economic,up,0.1670508835387354,6,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2002,0.19273,R&D Expenditure,65.0,Economic,up,0.27425303162895365,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2003,0.1879322222222222,R&D Expenditure,65.0,Economic,up,0.2592581017071578,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2004,0.1831344444444444,R&D Expenditure,65.0,Economic,up,0.24426317178536194,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2005,0.1783366666666666,R&D Expenditure,65.0,Economic,up,0.22926824186356604,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2006,0.1783366666666666,R&D Expenditure,65.0,Economic,up,0.22926824186356604,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2007,0.1783366666666666,R&D Expenditure,65.0,Economic,up,0.22926824186356604,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2011,0.14955,R&D Expenditure,65.0,Economic,up,0.13929866233279156,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2012,0.224435,R&D Expenditure,65.0,Economic,up,0.37334354294286787,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2013,0.29932,R&D Expenditure,65.0,Economic,up,0.6073884235529441,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2014,0.327805,R&D Expenditure,65.0,Economic,up,0.6964151768971122,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2015,0.35629,R&D Expenditure,65.0,Economic,up,0.7854419302412802,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2016,0.3876199999999999,R&D Expenditure,65.0,Economic,up,0.8833604200525064,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2017,0.41895,R&D Expenditure,65.0,Economic,up,0.981278909863733,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2018,0.4177349999999999,R&D Expenditure,65.0,Economic,up,0.9774815601950242,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2019,0.41652,R&D Expenditure,65.0,Economic,up,0.9736842105263158,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2020,0.42073,R&D Expenditure,65.0,Economic,up,0.986842105263158,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2021,0.42494,R&D Expenditure,65.0,Economic,up,1.0,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2022,0.42494,R&D Expenditure,65.0,Economic,up,1.0,7,% of GDP
+Vietnam,VNM,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2023,0.42494,R&D Expenditure,65.0,Economic,up,1.0,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2002,0.13263,R&D Expenditure,65.0,Economic,up,0.08641705213151643,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2003,0.12527,R&D Expenditure,65.0,Economic,up,0.06341417677209649,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2004,0.116095,R&D Expenditure,65.0,Economic,up,0.03473871733966746,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2005,0.10692,R&D Expenditure,65.0,Economic,up,0.006063257907238397,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2006,0.10595,R&D Expenditure,65.0,Economic,up,0.0030316289536191986,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2007,0.10498,R&D Expenditure,65.0,Economic,up,0.0,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2008,0.106995,R&D Expenditure,65.0,Economic,up,0.006297662207775982,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2009,0.10901,R&D Expenditure,65.0,Economic,up,0.01259532441555192,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2010,0.1106149999999999,R&D Expenditure,65.0,Economic,up,0.01761157644705554,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2011,0.11222,R&D Expenditure,65.0,Economic,up,0.022627828478559812,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2012,0.122145,R&D Expenditure,65.0,Economic,up,0.05364733091636455,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2013,0.13207,R&D Expenditure,65.0,Economic,up,0.08466683335416925,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2014,0.14445,R&D Expenditure,65.0,Economic,up,0.12335916989623702,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2015,0.15683,R&D Expenditure,65.0,Economic,up,0.1620515064383048,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2016,0.21196,R&D Expenditure,65.0,Economic,up,0.3343542942867859,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2017,0.26709,R&D Expenditure,65.0,Economic,up,0.5066570821352668,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2018,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2019,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2020,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2021,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2022,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Philippines,PHL,Research and development expenditure (% of GDP),GB.XPD.RSDV.GD.ZS,2023,0.32222,R&D Expenditure,65.0,Economic,up,0.678959869983748,7,% of GDP
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2000,1.12950984166849,Population Growth,65.1,Health,down,0.7317772785617233,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2001,1.05123747397877,Population Growth,65.1,Health,down,0.777608575252505,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2002,1.02445055878013,Population Growth,65.1,Health,down,0.7932932810322808,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2003,0.999847904782733,Population Growth,65.1,Health,down,0.807699023033151,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2004,0.969589431962946,Population Growth,65.1,Health,down,0.8254164511134026,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2005,0.928402391177897,Population Growth,65.1,Health,down,0.8495329502273399,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2006,1.32258336381927,Population Growth,65.1,Health,down,0.6187257619408861,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2007,1.76779845772365,Population Growth,65.1,Health,down,0.3580362534692285,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2008,1.82745521345807,Population Growth,65.1,Health,down,0.32310506954858687,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2009,1.49648723830416,Population Growth,65.1,Health,down,0.5168987659978431,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2010,1.14440259659988,Population Growth,65.1,Health,down,0.7230570329635657,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2011,1.15183406119192,Population Growth,65.1,Health,down,0.7187056421903241,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2012,1.1709874078049,Population Growth,65.1,Health,down,0.7074906663674302,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2013,1.1802975549343,Population Growth,65.1,Health,down,0.7020392391535016,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2014,1.21423463554626,Population Growth,65.1,Health,down,0.68216785342372,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2015,1.23975403093124,Population Growth,65.1,Health,down,0.6672253262486798,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2016,1.25988366517733,Population Growth,65.1,Health,down,0.6554386987754106,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2017,1.24420473643635,Population Growth,65.1,Health,down,0.6646192775177074,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2018,1.10791395242199,Population Growth,65.1,Health,down,0.7444224512653412,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2019,0.968366698803348,Population Growth,65.1,Health,down,0.8261324055155146,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2020,0.927434295850725,Population Growth,65.1,Health,down,0.8500998049868697,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2021,0.868883560805873,Population Growth,65.1,Health,down,0.884383373869588,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2022,0.750756665157789,Population Growth,65.1,Health,down,0.953550935314384,8,annual %
+Vietnam,VNM,Population growth (annual %),SP.POP.GROW,2023,0.671429250652247,Population Growth,65.1,Health,down,1.0,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2000,2.37926588939747,Population Growth,65.1,Health,down,0.0,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2001,2.20604531885261,Population Growth,65.1,Health,down,0.10142689682083883,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2002,2.02766985591781,Population Growth,65.1,Health,down,0.20587216921284923,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2003,1.98211355051959,Population Growth,65.1,Health,down,0.23254703047574554,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2004,1.94326756715565,Population Growth,65.1,Health,down,0.2552927559641509,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2005,1.85941217176991,Population Growth,65.1,Health,down,0.30439311690227333,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2006,1.68208380821541,Population Growth,65.1,Health,down,0.4082252748098272,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2007,1.73463407300361,Population Growth,65.1,Health,down,0.37745519786218085,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2008,1.76733466433421,Population Growth,65.1,Health,down,0.35830782124035965,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2009,1.801550616238,Population Growth,65.1,Health,down,0.3382731463027562,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2010,2.04795425200975,Population Growth,65.1,Health,down,0.19399492309237532,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2011,1.96473852483036,Population Growth,65.1,Health,down,0.2427207352054881,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2012,1.94226237851608,Population Growth,65.1,Health,down,0.25588133019705217,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2013,1.87971579705684,Population Growth,65.1,Health,down,0.2925046113940136,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2014,1.64283283802775,Population Growth,65.1,Health,down,0.43120813470238595,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2015,1.47875384302116,Population Growth,65.1,Health,down,0.5272823090608547,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2016,1.34190709540685,Population Growth,65.1,Health,down,0.607411019564954,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2017,1.28830186666283,Population Growth,65.1,Health,down,0.6387988159899123,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2018,1.23686033319068,Population Growth,65.1,Health,down,0.668919690729984,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2019,1.21615534645287,Population Growth,65.1,Health,down,0.6810432078557334,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2020,1.1455140860985,Population Growth,65.1,Health,down,0.722406215740534,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2021,0.905660310915421,Population Growth,65.1,Health,down,0.8628492591450272,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2022,0.760479216015364,Population Growth,65.1,Health,down,0.9478580308310147,8,annual %
+Philippines,PHL,Population growth (annual %),SP.POP.GROW,2023,0.810000998681961,Population Growth,65.1,Health,down,0.9188612394851038,8,annual %
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2000,72.746,Life Expectancy,61.9,Health,up,0.6971750114836931,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2001,72.984,Life Expectancy,61.9,Health,up,0.724506201194304,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2002,73.138,Life Expectancy,61.9,Health,up,0.7421910886541122,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2003,73.236,Life Expectancy,61.9,Health,up,0.7534451079467166,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2004,73.062,Life Expectancy,61.9,Health,up,0.733463481855765,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2005,73.198,Life Expectancy,61.9,Health,up,0.7490813045475422,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2006,73.293,Life Expectancy,61.9,Health,up,0.7599908130454767,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2007,73.385,Life Expectancy,61.9,Health,up,0.7705558107487378,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2008,73.455,Life Expectancy,61.9,Health,up,0.7785943959577403,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2009,73.525,Life Expectancy,61.9,Health,up,0.7866329811667443,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2010,73.611,Life Expectancy,61.9,Health,up,0.7965089572806624,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2011,73.713,Life Expectancy,61.9,Health,up,0.8082223242994945,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2012,73.762,Life Expectancy,61.9,Health,up,0.8138493339457975,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,73.821,Life Expectancy,61.9,Health,up,0.8206247129076714,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,73.886,Life Expectancy,61.9,Health,up,0.8280891134588884,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,73.955,Life Expectancy,61.9,Health,up,0.8360128617363347,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,73.984,Life Expectancy,61.9,Health,up,0.8393431327514927,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,74.026,Life Expectancy,61.9,Health,up,0.8441662838768949,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,74.1,Life Expectancy,61.9,Health,up,0.8526642168121266,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,74.211,Life Expectancy,61.9,Health,up,0.865411116214975,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,75.383,Life Expectancy,61.9,Health,up,1.0,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,74.145,Life Expectancy,61.9,Health,up,0.8578318787322003,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,74.502,Life Expectancy,61.9,Health,up,0.8988286632981166,9,years
+Vietnam,VNM,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,74.588,Life Expectancy,61.9,Health,up,0.9087046394120347,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2000,67.789,Life Expectancy,61.9,Health,up,0.12792834175470882,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2001,67.829,Life Expectancy,61.9,Health,up,0.13252181901699547,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2002,67.886,Life Expectancy,61.9,Health,up,0.1390675241157555,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2003,68.049,Life Expectancy,61.9,Health,up,0.1577859439595785,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2004,68.301,Life Expectancy,61.9,Health,up,0.18672485071198955,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2005,68.423,Life Expectancy,61.9,Health,up,0.2007349563619666,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2006,68.172,Life Expectancy,61.9,Health,up,0.17191088654111164,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2007,68.549,Life Expectancy,61.9,Health,up,0.21520440973817292,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2008,68.643,Life Expectancy,61.9,Health,up,0.225999081304548,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2009,68.631,Life Expectancy,61.9,Health,up,0.22462103812586168,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2010,68.883,Life Expectancy,61.9,Health,up,0.2535599448782727,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2011,69.096,Life Expectancy,61.9,Health,up,0.27802021129995486,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2012,69.237,Life Expectancy,61.9,Health,up,0.29421221864951747,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2013,69.283,Life Expectancy,61.9,Health,up,0.2994947175011489,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2014,69.311,Life Expectancy,61.9,Health,up,0.30271015158475084,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2015,69.45,Life Expectancy,61.9,Health,up,0.3186724850711996,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2016,69.49,Life Expectancy,61.9,Health,up,0.32326596233348626,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2017,69.966,Life Expectancy,61.9,Health,up,0.377928341754708,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2018,69.761,Life Expectancy,61.9,Health,up,0.35438677078548453,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2019,69.68,Life Expectancy,61.9,Health,up,0.3450849793293535,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2020,70.097,Life Expectancy,61.9,Health,up,0.3929719797886998,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2021,66.675,Life Expectancy,61.9,Health,up,0.0,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2022,69.472,Life Expectancy,61.9,Health,up,0.3211988975654568,9,years
+Philippines,PHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,2023,69.833,Life Expectancy,61.9,Health,up,0.3626550298576024,9,years
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,21.7,Infant Mortality,61.9,Health,down,0.42105263157894746,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2001,20.7,Infant Mortality,61.9,Health,down,0.4962406015037595,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2002,19.9,Infant Mortality,61.9,Health,down,0.5563909774436091,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2003,19.2,Infant Mortality,61.9,Health,down,0.6090225563909775,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2004,18.6,Infant Mortality,61.9,Health,down,0.6541353383458646,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2005,18.1,Infant Mortality,61.9,Health,down,0.6917293233082706,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2006,17.7,Infant Mortality,61.9,Health,down,0.7218045112781956,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2007,17.3,Infant Mortality,61.9,Health,down,0.7518796992481203,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2008,17.0,Infant Mortality,61.9,Health,down,0.7744360902255639,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2009,16.8,Infant Mortality,61.9,Health,down,0.7894736842105263,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,16.5,Infant Mortality,61.9,Health,down,0.8120300751879699,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2011,16.3,Infant Mortality,61.9,Health,down,0.8270676691729323,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2012,16.2,Infant Mortality,61.9,Health,down,0.8345864661654137,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2013,16.0,Infant Mortality,61.9,Health,down,0.849624060150376,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2014,15.8,Infant Mortality,61.9,Health,down,0.8646616541353382,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2015,15.6,Infant Mortality,61.9,Health,down,0.8796992481203008,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2016,15.4,Infant Mortality,61.9,Health,down,0.8947368421052632,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2017,15.2,Infant Mortality,61.9,Health,down,0.9097744360902256,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,15.0,Infant Mortality,61.9,Health,down,0.924812030075188,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2019,14.9,Infant Mortality,61.9,Health,down,0.9323308270676691,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2020,14.7,Infant Mortality,61.9,Health,down,0.9473684210526316,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2021,14.5,Infant Mortality,61.9,Health,down,0.9624060150375939,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2022,14.3,Infant Mortality,61.9,Health,down,0.9774436090225563,10,"per 1,000"
+Vietnam,VNM,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2023,14.0,Infant Mortality,61.9,Health,down,1.0,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2000,27.3,Infant Mortality,61.9,Health,down,0.0,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2001,26.8,Infant Mortality,61.9,Health,down,0.03759398496240607,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2002,26.4,Infant Mortality,61.9,Health,down,0.06766917293233099,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2003,25.9,Infant Mortality,61.9,Health,down,0.10526315789473695,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2004,25.5,Infant Mortality,61.9,Health,down,0.13533834586466165,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2005,25.0,Infant Mortality,61.9,Health,down,0.17293233082706772,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2006,24.5,Infant Mortality,61.9,Health,down,0.21052631578947367,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2007,24.1,Infant Mortality,61.9,Health,down,0.24060150375939848,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2008,23.8,Infant Mortality,61.9,Health,down,0.26315789473684215,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2009,23.4,Infant Mortality,61.9,Health,down,0.29323308270676707,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2010,23.1,Infant Mortality,61.9,Health,down,0.3157894736842105,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2011,22.8,Infant Mortality,61.9,Health,down,0.33834586466165417,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2012,22.6,Infant Mortality,61.9,Health,down,0.35338345864661647,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2013,22.4,Infant Mortality,61.9,Health,down,0.3684210526315791,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2014,22.3,Infant Mortality,61.9,Health,down,0.37593984962406013,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2015,22.2,Infant Mortality,61.9,Health,down,0.3834586466165414,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2016,22.3,Infant Mortality,61.9,Health,down,0.37593984962406013,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2017,22.4,Infant Mortality,61.9,Health,down,0.3684210526315791,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2018,22.6,Infant Mortality,61.9,Health,down,0.35338345864661647,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2019,22.7,Infant Mortality,61.9,Health,down,0.34586466165413543,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2020,22.8,Infant Mortality,61.9,Health,down,0.33834586466165417,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2021,22.7,Infant Mortality,61.9,Health,down,0.34586466165413543,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2022,22.4,Infant Mortality,61.9,Health,down,0.3684210526315791,10,"per 1,000"
+Philippines,PHL,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN,2023,22.1,Infant Mortality,61.9,Health,down,0.39097744360902253,10,"per 1,000"
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2001,19.5,Undernourishment,63.2,Health,down,0.0,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2002,17.7,Undernourishment,63.2,Health,down,0.10909090909090913,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2003,16.0,Undernourishment,63.2,Health,down,0.21212121212121215,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2004,15.3,Undernourishment,63.2,Health,down,0.2545454545454545,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2005,15.2,Undernourishment,63.2,Health,down,0.2606060606060606,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2006,14.9,Undernourishment,63.2,Health,down,0.2787878787878788,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2007,13.8,Undernourishment,63.2,Health,down,0.34545454545454546,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2008,12.5,Undernourishment,63.2,Health,down,0.4242424242424242,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2009,11.3,Undernourishment,63.2,Health,down,0.49696969696969695,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2010,10.4,Undernourishment,63.2,Health,down,0.5515151515151515,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2011,9.3,Undernourishment,63.2,Health,down,0.6181818181818182,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2012,8.8,Undernourishment,63.2,Health,down,0.6484848484848484,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2013,8.4,Undernourishment,63.2,Health,down,0.6727272727272727,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2014,8.3,Undernourishment,63.2,Health,down,0.6787878787878787,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2015,8.0,Undernourishment,63.2,Health,down,0.696969696969697,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2016,7.7,Undernourishment,63.2,Health,down,0.7151515151515151,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2017,7.3,Undernourishment,63.2,Health,down,0.7393939393939394,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2018,6.9,Undernourishment,63.2,Health,down,0.7636363636363637,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2019,6.4,Undernourishment,63.2,Health,down,0.793939393939394,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2020,5.9,Undernourishment,63.2,Health,down,0.8242424242424242,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2021,5.6,Undernourishment,63.2,Health,down,0.8424242424242424,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2022,5.4,Undernourishment,63.2,Health,down,0.8545454545454545,11,%
+Vietnam,VNM,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2023,5.3,Undernourishment,63.2,Health,down,0.8606060606060606,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2001,18.5,Undernourishment,63.2,Health,down,0.06060606060606055,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2002,18.3,Undernourishment,63.2,Health,down,0.07272727272727264,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2003,17.8,Undernourishment,63.2,Health,down,0.10303030303030303,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2004,17.6,Undernourishment,63.2,Health,down,0.11515151515151512,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2005,17.3,Undernourishment,63.2,Health,down,0.1333333333333333,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2006,17.0,Undernourishment,63.2,Health,down,0.1515151515151515,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2007,16.7,Undernourishment,63.2,Health,down,0.1696969696969698,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2008,16.4,Undernourishment,63.2,Health,down,0.18787878787878798,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2009,16.0,Undernourishment,63.2,Health,down,0.21212121212121215,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2010,15.7,Undernourishment,63.2,Health,down,0.23030303030303034,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2011,14.9,Undernourishment,63.2,Health,down,0.2787878787878788,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2012,14.3,Undernourishment,63.2,Health,down,0.31515151515151507,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2013,13.7,Undernourishment,63.2,Health,down,0.35151515151515156,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2014,12.9,Undernourishment,63.2,Health,down,0.4,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2015,11.4,Undernourishment,63.2,Health,down,0.49090909090909085,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2016,9.7,Undernourishment,63.2,Health,down,0.593939393939394,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2017,7.8,Undernourishment,63.2,Health,down,0.7090909090909091,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2018,6.4,Undernourishment,63.2,Health,down,0.793939393939394,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2019,5.8,Undernourishment,63.2,Health,down,0.8303030303030303,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2020,5.2,Undernourishment,63.2,Health,down,0.8666666666666667,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2021,4.6,Undernourishment,63.2,Health,down,0.9030303030303031,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2022,3.5,Undernourishment,63.2,Health,down,0.9696969696969697,11,%
+Philippines,PHL,Prevalence of undernourishment (% of population),SN.ITK.DEFC.ZS,2023,3.0,Undernourishment,63.2,Health,down,1.0,11,%
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2000,21.0719223,Health Expenditure,61.4,Health,up,0.0,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2001,25.55491257,Health Expenditure,61.4,Health,up,0.023957790701846022,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2002,21.87733841,Health Expenditure,61.4,Health,up,0.004304267783136408,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2003,24.88381386,Health Expenditure,61.4,Health,up,0.02037133579873091,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2004,31.97719193,Health Expenditure,61.4,Health,up,0.05827944108893591,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2005,38.96974945,Health Expenditure,61.4,Health,up,0.09564874582641408,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2006,46.86905289,Health Expenditure,61.4,Health,up,0.1378638404636577,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2007,54.40701294,Health Expenditure,61.4,Health,up,0.17814786035219005,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2008,64.433815,Health Expenditure,61.4,Health,up,0.2317326354006352,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2009,69.82720184,Health Expenditure,61.4,Health,up,0.26055572563830615,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2010,85.36088562,Health Expenditure,61.4,Health,up,0.3435701250494163,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2011,97.05238342,Health Expenditure,61.4,Health,up,0.4060512906138228,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2012,109.29483795,Health Expenditure,61.4,Health,up,0.4714768538298248,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2013,104.10972595,Health Expenditure,61.4,Health,up,0.4437668164262347,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2014,119.44549561,Health Expenditure,61.4,Health,up,0.5257235322872309,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2015,121.43981171,Health Expenditure,61.4,Health,up,0.5363814647919833,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2016,133.1960144,Health Expenditure,61.4,Health,up,0.5992084232576994,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2017,147.51425171,Health Expenditure,61.4,Health,up,0.6757272894680297,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2018,161.97871399,Health Expenditure,61.4,Health,up,0.753027604447073,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2019,171.15296936,Health Expenditure,61.4,Health,up,0.8020562386314044,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2020,153.10160828,Health Expenditure,61.4,Health,up,0.7055869838279383,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2021,168.09350586,Health Expenditure,61.4,Health,up,0.7857059943126861,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2022,188.22650146,Health Expenditure,61.4,Health,up,0.8932998247106243,12,US$/capita
+Vietnam,VNM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2023,197.19210815,Health Expenditure,61.4,Health,up,0.9412134082023168,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2000,32.10300446,Health Expenditure,61.4,Health,up,0.05895180263332306,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2001,27.60987473,Health Expenditure,61.4,Health,up,0.03493982509503989,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2002,26.76997948,Health Expenditure,61.4,Health,up,0.030451295475506575,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2003,31.60413551,Health Expenditure,61.4,Health,up,0.056285770103265895,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2004,33.50411606,Health Expenditure,61.4,Health,up,0.06643955889444218,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2005,45.67607498,Health Expenditure,61.4,Health,up,0.13148838270927235,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2006,53.87452698,Health Expenditure,61.4,Health,up,0.17530217334128523,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2007,64.27903748,Health Expenditure,61.4,Health,up,0.230905480487022,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2008,75.69056702,Health Expenditure,61.4,Health,up,0.29189045253498797,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2009,77.64539337,Health Expenditure,61.4,Health,up,0.30233734573151355,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2010,89.35166931,Health Expenditure,61.4,Health,up,0.3648974879529635,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2011,95.95716095,Health Expenditure,61.4,Health,up,0.40019825299207956,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2012,109.2149353,Health Expenditure,61.4,Health,up,0.4710498417575405,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2013,118.87432098,Health Expenditure,61.4,Health,up,0.5226710870630425,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2014,106.16293335,Health Expenditure,61.4,Health,up,0.45473947311163093,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2015,113.4342804,Health Expenditure,61.4,Health,up,0.4935986720508215,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2016,118.05981445,Health Expenditure,61.4,Health,up,0.5183182386748557,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2017,120.32259369,Health Expenditure,61.4,Health,up,0.5304108795621628,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2018,125.27716827,Health Expenditure,61.4,Health,up,0.5568888894741333,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2019,141.6925354,Health Expenditure,61.4,Health,up,0.6446151405495126,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2020,166.61218262,Health Expenditure,61.4,Health,up,0.7777895746891162,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2021,208.192276,Health Expenditure,61.4,Health,up,1.0,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2022,182.93432617,Health Expenditure,61.4,Health,up,0.8650176245899218,12,US$/capita
+Philippines,PHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,2023,194.05484009,Health Expenditure,61.4,Health,up,0.924447364327529,12,US$/capita
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2001,0.543,Physicians,58.5,Health,up,0.0,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2002,0.571,Physicians,58.5,Health,up,0.04034582132564829,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2003,0.5923333333333333,Physicians,58.5,Health,up,0.07108549471661849,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2004,0.6136666666666667,Physicians,58.5,Health,up,0.10182516810758883,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2005,0.635,Physicians,58.5,Health,up,0.13256484149855902,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2006,0.643,Physicians,58.5,Health,up,0.14409221902017286,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2007,0.655,Physicians,58.5,Health,up,0.16138328530259363,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2008,0.673,Physicians,58.5,Health,up,0.18731988472622477,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2009,0.703,Physicians,58.5,Health,up,0.2305475504322765,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2010,0.714,Physicians,58.5,Health,up,0.24639769452449556,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2011,0.7689999999999999,Physicians,58.5,Health,up,0.32564841498559055,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2012,0.824,Physicians,58.5,Health,up,0.4048991354466857,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2013,0.8035,Physicians,58.5,Health,up,0.37536023054755036,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2014,0.783,Physicians,58.5,Health,up,0.34582132564841495,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2015,0.795,Physicians,58.5,Health,up,0.3631123919308357,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2016,0.825,Physicians,58.5,Health,up,0.40634005763688746,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2017,0.853,Physicians,58.5,Health,up,0.4466858789625359,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2018,0.881,Physicians,58.5,Health,up,0.4870317002881843,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2019,0.99,Physicians,58.5,Health,up,0.6440922190201728,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2020,0.856,Physicians,58.5,Health,up,0.4510086455331411,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2021,1.107,Physicians,58.5,Health,up,0.812680115273775,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2022,1.107,Physicians,58.5,Health,up,0.812680115273775,13,"per 1,000"
+Vietnam,VNM,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2023,1.107,Physicians,58.5,Health,up,0.812680115273775,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2000,1.194,Physicians,58.5,Health,up,0.9380403458213254,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2001,1.194,Physicians,58.5,Health,up,0.9380403458213254,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2002,1.088,Physicians,58.5,Health,up,0.7853025936599424,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2003,1.201,Physicians,58.5,Health,up,0.9481268011527377,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2004,1.086,Physicians,58.5,Health,up,0.7824207492795389,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2005,1.205,Physicians,58.5,Health,up,0.9538904899135446,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2006,1.214,Physicians,58.5,Health,up,0.9668587896253601,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2007,1.221,Physicians,58.5,Health,up,0.9769452449567723,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2008,1.232,Physicians,58.5,Health,up,0.9927953890489912,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2009,1.237,Physicians,58.5,Health,up,1.0,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2010,0.543,Physicians,58.5,Health,up,0.0,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2011,0.554,Physicians,58.5,Health,up,0.015850144092219035,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2012,0.564,Physicians,58.5,Health,up,0.030259365994236176,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2013,0.574,Physicians,58.5,Health,up,0.04466858789625348,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2014,0.589,Physicians,58.5,Health,up,0.06628242074927944,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2015,0.609,Physicians,58.5,Health,up,0.09510086455331404,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2016,0.631,Physicians,58.5,Health,up,0.1268011527377521,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2017,0.66,Physicians,58.5,Health,up,0.1685878962536023,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2018,0.695,Physicians,58.5,Health,up,0.21902017291066267,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2019,0.732,Physicians,58.5,Health,up,0.2723342939481267,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2020,0.752,Physicians,58.5,Health,up,0.3011527377521613,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2021,0.792,Physicians,58.5,Health,up,0.3587896253602305,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2022,0.792,Physicians,58.5,Health,up,0.3587896253602305,13,"per 1,000"
+Philippines,PHL,"Physicians (per 1,000 people)",SH.MED.PHYS.ZS,2023,0.792,Physicians,58.5,Health,up,0.3587896253602305,13,"per 1,000"
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2000,45.6576486828155,Drinking Water,73.0,Environment,up,0.24038484542153646,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2001,46.2100062635044,Drinking Water,73.0,Environment,up,0.27417498626183084,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2002,46.7626957246996,Drinking Water,73.0,Environment,up,0.30798542969132137,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2003,47.3141839053115,Drinking Water,73.0,Environment,up,0.3417223855078644,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2004,47.8654653760388,Drinking Water,73.0,Environment,up,0.37544669597226926,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2005,48.4153894204967,Drinking Water,73.0,Environment,up,0.4090879667058427,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2006,48.9645843386629,Drinking Water,73.0,Environment,up,0.44268463357961885,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2007,49.5129650176871,Drinking Water,73.0,Environment,up,0.47623148986647124,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2008,50.0601009000849,Drinking Water,73.0,Environment,up,0.5097021964727649,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2009,50.6065902655669,Drinking Water,73.0,Environment,up,0.5431333527978566,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2010,51.1560028636444,Drinking Water,73.0,Environment,up,0.5767433361085174,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2011,51.7038442970064,Drinking Water,73.0,Environment,up,0.6102572043682105,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2012,52.2503650158694,Drinking Water,73.0,Environment,up,0.6436902787174169,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2013,52.794184640231,Drinking Water,73.0,Environment,up,0.6769581152445745,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2014,53.3365325126258,Drinking Water,73.0,Environment,up,0.710135918235525,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2015,53.8770086573967,Drinking Water,73.0,Environment,up,0.7431992194214175,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2016,54.415221505275,Drinking Water,73.0,Environment,up,0.7761240647891262,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2017,54.9495461820642,Drinking Water,73.0,Environment,up,0.8088110536426765,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2018,55.4802729948595,Drinking Water,73.0,Environment,up,0.8412779453429897,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2019,56.0073746060456,Drinking Water,73.0,Environment,up,0.8735230675279898,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2020,56.5308225128813,Drinking Water,73.0,Environment,up,0.9055446765597259,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2021,57.0496891690515,Drinking Water,73.0,Environment,up,0.9372860303535074,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2022,57.5645693507635,Drinking Water,73.0,Environment,up,0.9687835139839961,14,%
+Vietnam,VNM,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2023,58.0748561463973,Drinking Water,73.0,Environment,up,1.0,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2000,41.7281476997069,Drinking Water,73.0,Environment,up,0.0,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2001,41.8381252227249,Drinking Water,73.0,Environment,up,0.006727808437805848,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2002,42.947221339857,Drinking Water,73.0,Environment,up,0.07457609243632879,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2003,44.0731652482255,Drinking Water,73.0,Environment,up,0.1434550298713731,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2004,44.6216392826264,Drinking Water,73.0,Environment,up,0.17700759711691802,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2005,44.7524783096199,Drinking Water,73.0,Environment,up,0.18501159543989515,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2006,44.8835155836405,Drinking Water,73.0,Environment,up,0.1930277214048217,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2007,45.0147506765352,Drinking Water,73.0,Environment,up,0.2010559488196973,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2008,45.1461899033506,Drinking Water,73.0,Environment,up,0.20909666400367757,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2009,45.2781103872759,Drinking Water,73.0,Environment,up,0.2171668198002109,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2010,45.4229968618347,Drinking Water,73.0,Environment,up,0.2260301622297463,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2011,45.6326736610431,Drinking Water,73.0,Environment,up,0.23885701357368486,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2012,45.8419044881395,Drinking Water,73.0,Environment,up,0.25165658284347014,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2013,46.0509688561872,Drinking Water,73.0,Environment,up,0.2644459690816536,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2014,46.2593041926377,Drinking Water,73.0,Environment,up,0.2771907572529189,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2015,46.4674711942453,Drinking Water,73.0,Environment,up,0.28992524764200667,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2016,46.6751900094206,Drinking Water,73.0,Environment,up,0.30263232049723665,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2017,46.8868658379392,Drinking Water,73.0,Environment,up,0.31558146124987896,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2018,47.1029928204949,Drinking Water,73.0,Environment,up,0.32880289865793755,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2019,47.3232362537927,Drinking Water,73.0,Environment,up,0.34227615744982565,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2020,47.5475307294707,Drinking Water,73.0,Environment,up,0.3559972363085736,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2021,47.7758210718841,Drinking Water,73.0,Environment,up,0.3699627598974905,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2022,48.0080472021408,Drinking Water,73.0,Environment,up,0.3841690529266976,14,%
+Philippines,PHL,People using safely managed drinking water services (% of population),SH.H2O.SMDW.ZS,2023,48.244145697978,Drinking Water,73.0,Environment,up,0.39861223557763664,14,%
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2000,4658.474593109618,Freshwater per Capita,66.7,Environment,up,0.436838195534651,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2001,4609.759466927016,Freshwater per Capita,66.7,Environment,up,0.4166240637655437,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2002,4562.775833268336,Freshwater per Capita,66.7,Environment,up,0.3971284073608355,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2003,4517.382325879275,Freshwater per Capita,66.7,Environment,up,0.3782925670022381,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2004,4473.793920014236,Freshwater per Capita,66.7,Environment,up,0.3602057457455603,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2005,4432.451320081108,Freshwater per Capita,66.7,Environment,up,0.3430508119865217,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2006,4374.21442099218,Freshwater per Capita,66.7,Environment,up,0.31888566156496284,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2007,4297.566611415598,Freshwater per Capita,66.7,Environment,up,0.287080983141533,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2008,4219.743760985223,Freshwater per Capita,66.7,Environment,up,0.254788726577309,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2009,4157.065986268937,Freshwater per Capita,66.7,Environment,up,0.22878085394324588,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2010,4109.763596317345,Freshwater per Capita,66.7,Environment,up,0.2091529309878361,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2011,4062.697521284287,Freshwater per Capita,66.7,Environment,up,0.18962306588994568,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2012,4015.401301722004,Freshwater per Capita,66.7,Environment,up,0.1699977033110007,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2013,3968.286214415264,Freshwater per Capita,66.7,Environment,up,0.15044750078126629,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2014,3920.393263590284,Freshwater per Capita,66.7,Environment,up,0.1305745271352845,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2015,3872.090069154439,Freshwater per Capita,66.7,Environment,up,0.11053132467009841,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2016,3823.612262099631,Freshwater per Capita,66.7,Environment,up,0.0904156674508174,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2017,3776.3334298797913,Freshwater per Capita,66.7,Environment,up,0.07079751967472328,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2018,3734.725818785538,Freshwater per Capita,66.7,Environment,up,0.05353262067591133,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2019,3698.734522779068,Freshwater per Capita,66.7,Environment,up,0.03859818743050254,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2020,3664.589770117496,Freshwater per Capita,66.7,Environment,up,0.024429969392075427,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2021,3632.8866829444087,Freshwater per Capita,66.7,Environment,up,0.011274909930623163,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2022,3605.714669511351,Freshwater per Capita,66.7,Environment,up,0.0,15,m³/capita
+Vietnam,VNM,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2023,3605.714669511351,Freshwater per Capita,66.7,Environment,up,0.0,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2000,6015.6685937779375,Freshwater per Capita,66.7,Environment,up,1.0,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2001,5884.413316867132,Freshwater per Capita,66.7,Environment,up,0.9455361882278518,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2002,5766.298379168163,Freshwater per Capita,66.7,Environment,up,0.8965249036096552,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2003,5653.1290748040565,Freshwater per Capita,66.7,Environment,up,0.8495657882404488,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2004,5544.334162737945,Freshwater per Capita,66.7,Environment,up,0.8044218081126043,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2005,5442.194678278925,Freshwater per Capita,66.7,Environment,up,0.7620394690020738,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2006,5351.418012935596,Freshwater per Capita,66.7,Environment,up,0.7243720827382663,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2007,5259.39096647886,Freshwater per Capita,66.7,Environment,up,0.6861858562174655,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2008,5167.256487239709,Freshwater per Capita,66.7,Environment,up,0.6479550509263685,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2009,5074.999271594573,Freshwater per Capita,66.7,Environment,up,0.609673316692295,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2010,4972.122637041535,Freshwater per Capita,66.7,Environment,up,0.5669851003255254,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2011,4875.386842607265,Freshwater per Capita,66.7,Environment,up,0.5268449991143749,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2012,4781.6077046853525,Freshwater per Capita,66.7,Environment,up,0.4879317497872318,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2013,4692.566551369948,Freshwater per Capita,66.7,Environment,up,0.4509845067636946,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2014,4616.105311961504,Freshwater per Capita,66.7,Environment,up,0.41925724482788285,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2015,4548.346703510238,Freshwater per Capita,66.7,Environment,up,0.3911411021211763,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2016,4487.719804463959,Freshwater per Capita,66.7,Environment,up,0.36598423151223763,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2017,4430.275250596577,Freshwater per Capita,66.7,Environment,up,0.3421478613273331,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2018,4375.816417491327,Freshwater per Capita,66.7,Environment,up,0.31955040311168553,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2019,4322.9219833605775,Freshwater per Capita,66.7,Environment,up,0.2976020855118597,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2020,4273.684850663354,Freshwater per Capita,66.7,Environment,up,0.2771713493880528,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2021,4235.154523458909,Freshwater per Capita,66.7,Environment,up,0.2611833560839192,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2022,4203.069209246844,Freshwater per Capita,66.7,Environment,up,0.24786969315908572,15,m³/capita
+Philippines,PHL,Renewable internal freshwater resources per capita (cubic meters),ER.H2O.INTR.PC,2023,4203.069209246844,Freshwater per Capita,66.7,Environment,up,0.24786969315908572,15,m³/capita
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2000,37.88368803446281,Forest Area,65.0,Environment,up,0.6098260094689542,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2001,38.39562827477579,Forest Area,65.0,Environment,up,0.6307159978660242,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2002,38.9788826275962,Forest Area,65.0,Environment,up,0.6545159958023263,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2003,39.55651304544136,Forest Area,65.0,Environment,up,0.6780865061400233,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2004,40.07380268971523,Forest Area,65.0,Environment,up,0.6991947797545355,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2005,40.2320697359967,Forest Area,65.0,Environment,up,0.7056529490878101,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2006,40.7502549593184,Forest Area,65.0,Environment,up,0.7267977672722634,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2007,41.29432617306228,Forest Area,65.0,Environment,up,0.748998876791103,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2008,41.77622189825826,Forest Area,65.0,Environment,up,0.7686628830856407,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2009,42.293066293219766,Forest Area,65.0,Environment,up,0.7897529880698392,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2010,42.73321544619432,Forest Area,65.0,Environment,up,0.8077135037210359,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2011,43.1647323195567,Forest Area,65.0,Environment,up,0.8253217747023693,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2012,43.57082470641906,Forest Area,65.0,Environment,up,0.841892586257458,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2013,44.06395211255915,Forest Area,65.0,Environment,up,0.8620149071483608,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2014,44.44284889156942,Forest Area,65.0,Environment,up,0.8774759877470899,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2015,44.871164038891706,Forest Area,65.0,Environment,up,0.8949536106281937,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2016,45.878354877515655,Forest Area,65.0,Environment,up,0.9360525578795883,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2017,45.99633698464916,Forest Area,65.0,Environment,up,0.9408668792690811,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2018,46.23468153872168,Forest Area,65.0,Environment,up,0.9505926530547787,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2019,46.47684164515727,Forest Area,65.0,Environment,up,0.9604741224438231,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2020,46.71900175159286,Forest Area,65.0,Environment,up,0.9703555918328675,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2021,46.96116185802845,Forest Area,65.0,Environment,up,0.9802370612219116,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2022,47.20332196446404,Forest Area,65.0,Environment,up,0.9901185306109559,17,% of land
+Vietnam,VNM,Forest area (% of land area),AG.LND.FRST.ZS,2023,47.44548207089962,Forest Area,65.0,Environment,up,1.0,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2000,24.51373377603381,Forest Area,65.0,Environment,up,0.06425805576172801,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2001,24.356259851762417,Forest Area,65.0,Environment,up,0.05783225018555504,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2002,24.19878592749103,Forest Area,65.0,Environment,up,0.05140644460938235,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2003,24.04131200321964,Forest Area,65.0,Environment,up,0.04498063903320952,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2004,23.88383807894825,Forest Area,65.0,Environment,up,0.03855483345703669,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2005,23.72636415467685,Forest Area,65.0,Environment,up,0.03212902788086343,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2006,23.568890230405472,Forest Area,65.0,Environment,up,0.02570322230469103,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2007,23.41141630613409,Forest Area,65.0,Environment,up,0.01927741672851849,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2008,23.253942381862696,Forest Area,65.0,Environment,up,0.012851611152345515,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2009,23.09646845759131,Forest Area,65.0,Environment,up,0.0064258055761728305,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2010,22.93899453331992,Forest Area,65.0,Environment,up,0.0,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2011,23.05599490223698,Forest Area,65.0,Environment,up,0.004774261049758456,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2012,23.17299527115404,Forest Area,65.0,Environment,up,0.009548522099517056,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2013,23.2899956400711,Forest Area,65.0,Environment,up,0.014322783149275658,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2014,23.40699600898816,Forest Area,65.0,Environment,up,0.019097044199034113,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2015,23.52399637790522,Forest Area,65.0,Environment,up,0.023871305248792715,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2016,23.641010161988127,Forest Area,65.0,Environment,up,0.028646113711387415,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2017,23.758023946071035,Forest Area,65.0,Environment,up,0.03342092217398211,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2018,23.87500419223933,Forest Area,65.0,Environment,up,0.038194362104486713,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2019,23.992017976322234,Forest Area,65.0,Environment,up,0.042969170567081265,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2020,24.10903176040513,Forest Area,65.0,Environment,up,0.04774397902967553,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2021,24.226045544488045,Forest Area,65.0,Environment,up,0.05251878749227052,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2022,24.34305932857095,Forest Area,65.0,Environment,up,0.05729359595486507,17,% of land
+Philippines,PHL,Forest area (% of land area),AG.LND.FRST.ZS,2023,24.46007311265386,Forest Area,65.0,Environment,up,0.062068404417459914,17,% of land
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2000,0.699,CO2 per Capita,76.4,Environment,down,1.0,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2001,0.782,CO2 per Capita,76.4,Environment,down,0.9723148765843895,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2002,0.883,CO2 per Capita,76.4,Environment,down,0.9386257505003336,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2003,0.971,CO2 per Capita,76.4,Environment,down,0.9092728485657104,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2004,1.107,CO2 per Capita,76.4,Environment,down,0.8639092728485658,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2005,1.182,CO2 per Capita,76.4,Environment,down,0.8388925950633757,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2006,1.213,CO2 per Capita,76.4,Environment,down,0.8285523682454969,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2007,1.213,CO2 per Capita,76.4,Environment,down,0.8285523682454969,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2008,1.342,CO2 per Capita,76.4,Environment,down,0.78552368245497,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2009,1.44,CO2 per Capita,76.4,Environment,down,0.7528352234823216,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2010,1.596,CO2 per Capita,76.4,Environment,down,0.7008005336891261,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2011,1.725,CO2 per Capita,76.4,Environment,down,0.657771847898599,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2012,1.612,CO2 per Capita,76.4,Environment,down,0.6954636424282855,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2013,1.672,CO2 per Capita,76.4,Environment,down,0.6754503002001335,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2014,1.964,CO2 per Capita,76.4,Environment,down,0.5780520346897932,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2015,2.299,CO2 per Capita,76.4,Environment,down,0.46631087391594395,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2016,2.351,CO2 per Capita,76.4,Environment,down,0.4489659773182121,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2017,2.392,CO2 per Capita,76.4,Environment,down,0.43529019346230824,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2018,2.655,CO2 per Capita,76.4,Environment,down,0.3475650433622416,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2019,3.492,CO2 per Capita,76.4,Environment,down,0.06837891927951967,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2020,3.697,CO2 per Capita,76.4,Environment,down,0.0,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2021,3.176,CO2 per Capita,76.4,Environment,down,0.17378252168112074,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2022,3.237,CO2 per Capita,76.4,Environment,down,0.15343562374916608,18,tonnes/person
+Vietnam,VNM,CO2 emissions per capita (tonnes),OWID.CO2.PC,2023,3.462,CO2 per Capita,76.4,Environment,down,0.07838559039359572,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2000,0.898,CO2 per Capita,76.4,Environment,down,0.9336224149432955,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2001,0.857,CO2 per Capita,76.4,Environment,down,0.9472981987991994,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2002,0.837,CO2 per Capita,76.4,Environment,down,0.9539693128752502,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2003,0.82,CO2 per Capita,76.4,Environment,down,0.9596397598398932,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2004,0.833,CO2 per Capita,76.4,Environment,down,0.9553035356904603,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2005,0.822,CO2 per Capita,76.4,Environment,down,0.9589726484322882,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2006,0.733,CO2 per Capita,76.4,Environment,down,0.9886591060707138,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2007,0.769,CO2 per Capita,76.4,Environment,down,0.9766511007338226,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2008,0.826,CO2 per Capita,76.4,Environment,down,0.957638425617078,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2009,0.801,CO2 per Capita,76.4,Environment,down,0.9659773182121414,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2010,0.854,CO2 per Capita,76.4,Environment,down,0.9482988659106071,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2011,0.845,CO2 per Capita,76.4,Environment,down,0.9513008672448299,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2012,0.873,CO2 per Capita,76.4,Environment,down,0.9419613075383589,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2013,0.929,CO2 per Capita,76.4,Environment,down,0.923282188125417,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2014,0.964,CO2 per Capita,76.4,Environment,down,0.9116077384923282,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2015,1.054,CO2 per Capita,76.4,Environment,down,0.8815877251501001,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2016,1.126,CO2 per Capita,76.4,Environment,down,0.8575717144763175,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2017,1.235,CO2 per Capita,76.4,Environment,down,0.8212141427618411,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2018,1.278,CO2 per Capita,76.4,Environment,down,0.8068712474983322,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2019,1.287,CO2 per Capita,76.4,Environment,down,0.8038692461641095,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2020,1.173,CO2 per Capita,76.4,Environment,down,0.8418945963975983,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2021,1.24,CO2 per Capita,76.4,Environment,down,0.8195463642428286,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2022,1.325,CO2 per Capita,76.4,Environment,down,0.7911941294196131,18,tonnes/person
+Philippines,PHL,CO2 emissions per capita (tonnes),OWID.CO2.PC,2023,1.401,CO2 per Capita,76.4,Environment,down,0.7658438959306204,18,tonnes/person
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2000,0.972,Energy Intensity,65.8,Environment,down,0.6240808823529411,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2001,1.031,Energy Intensity,65.8,Environment,down,0.5698529411764706,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2002,1.056,Energy Intensity,65.8,Environment,down,0.546875,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2003,1.064,Energy Intensity,65.8,Environment,down,0.5395220588235293,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2004,1.207,Energy Intensity,65.8,Environment,down,0.40808823529411753,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2005,1.197,Energy Intensity,65.8,Environment,down,0.41727941176470584,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2006,1.029,Energy Intensity,65.8,Environment,down,0.5716911764705883,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2007,1.053,Energy Intensity,65.8,Environment,down,0.5496323529411765,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2008,1.233,Energy Intensity,65.8,Environment,down,0.3841911764705881,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2009,1.2,Energy Intensity,65.8,Environment,down,0.41452205882352944,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2010,1.306,Energy Intensity,65.8,Environment,down,0.31709558823529405,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2011,1.362,Energy Intensity,65.8,Environment,down,0.2656249999999999,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2012,1.343,Energy Intensity,65.8,Environment,down,0.28308823529411764,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2013,1.344,Energy Intensity,65.8,Environment,down,0.28216911764705876,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2014,1.393,Energy Intensity,65.8,Environment,down,0.2371323529411764,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2015,1.458,Energy Intensity,65.8,Environment,down,0.17738970588235303,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2016,1.478,Energy Intensity,65.8,Environment,down,0.15900735294117652,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2017,1.498,Energy Intensity,65.8,Environment,down,0.140625,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2018,1.583,Energy Intensity,65.8,Environment,down,0.0625,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2019,1.651,Energy Intensity,65.8,Environment,down,0.0,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2020,1.633,Energy Intensity,65.8,Environment,down,0.016544117647058876,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2021,1.585,Energy Intensity,65.8,Environment,down,0.06066176470588236,19,kWh per $
+Vietnam,VNM,Energy intensity (kWh per $),OWID.ENERGY.GDP,2022,1.551,Energy Intensity,65.8,Environment,down,0.09191176470588247,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2000,0.94,Energy Intensity,65.8,Environment,down,0.6534926470588236,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2001,0.886,Energy Intensity,65.8,Environment,down,0.703125,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2002,0.852,Energy Intensity,65.8,Environment,down,0.734375,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2003,0.83,Energy Intensity,65.8,Environment,down,0.7545955882352942,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2004,0.79,Energy Intensity,65.8,Environment,down,0.791360294117647,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2005,0.748,Energy Intensity,65.8,Environment,down,0.8299632352941176,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2006,0.674,Energy Intensity,65.8,Environment,down,0.8979779411764706,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2007,0.651,Energy Intensity,65.8,Environment,down,0.9191176470588235,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2008,0.641,Energy Intensity,65.8,Environment,down,0.9283088235294117,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2009,0.636,Energy Intensity,65.8,Environment,down,0.9329044117647058,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2010,0.603,Energy Intensity,65.8,Environment,down,0.9632352941176471,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2011,0.589,Energy Intensity,65.8,Environment,down,0.9761029411764706,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2012,0.57,Energy Intensity,65.8,Environment,down,0.9935661764705882,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2013,0.572,Energy Intensity,65.8,Environment,down,0.9917279411764706,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2014,0.566,Energy Intensity,65.8,Environment,down,0.9972426470588235,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2015,0.583,Energy Intensity,65.8,Environment,down,0.9816176470588235,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2016,0.594,Energy Intensity,65.8,Environment,down,0.9715073529411764,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2017,0.609,Energy Intensity,65.8,Environment,down,0.957720588235294,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2018,0.592,Energy Intensity,65.8,Environment,down,0.973345588235294,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2019,0.574,Energy Intensity,65.8,Environment,down,0.9898897058823529,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2020,0.576,Energy Intensity,65.8,Environment,down,0.9880514705882353,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2021,0.578,Energy Intensity,65.8,Environment,down,0.9862132352941176,19,kWh per $
+Philippines,PHL,Energy intensity (kWh per $),OWID.ENERGY.GDP,2022,0.563,Energy Intensity,65.8,Environment,down,1.0,19,kWh per $
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2000,90.1600036621094,Literacy Rate,71.9,Social,up,0.0,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2001,90.53333621554908,Literacy Rate,71.9,Social,up,0.04492571156697915,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2002,90.90666876898874,Literacy Rate,71.9,Social,up,0.08985142313395489,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2003,91.2800013224284,Literacy Rate,71.9,Social,up,0.13477713470093233,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2004,91.2800013224284,Literacy Rate,71.9,Social,up,0.13477713470093233,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2005,91.2800013224284,Literacy Rate,71.9,Social,up,0.13477713470093233,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2009,93.5199966430664,Literacy Rate,71.9,Social,up,0.404331404102797,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2010,93.74299697875976,Literacy Rate,71.9,Social,up,0.4311665907705407,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2011,93.96599731445312,Literacy Rate,71.9,Social,up,0.45800177743828446,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2012,94.18899765014648,Literacy Rate,71.9,Social,up,0.4848369641060282,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2013,94.18899765014648,Literacy Rate,71.9,Social,up,0.4848369641060282,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2014,94.18899765014648,Literacy Rate,71.9,Social,up,0.4848369641060282,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2019,95.75,Literacy Rate,71.9,Social,up,0.6726832707802378,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2020,95.87666575113931,Literacy Rate,71.9,Social,up,0.6879258445892185,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2021,96.00333150227868,Literacy Rate,71.9,Social,up,0.703168418398206,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2022,96.129997253418,Literacy Rate,71.9,Social,up,0.7184109922071866,21,%
+Vietnam,VNM,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2023,96.129997253418,Literacy Rate,71.9,Social,up,0.7184109922071866,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2000,92.5999984741211,Literacy Rate,71.9,Social,up,0.29362160395443154,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2001,92.59666442871092,Literacy Rate,71.9,Social,up,0.2932203950026043,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2002,92.59333038330077,Literacy Rate,71.9,Social,up,0.2928191860507787,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2003,92.5899963378906,Literacy Rate,71.9,Social,up,0.29241797709895145,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2004,93.15599670410154,Literacy Rate,71.9,Social,up,0.36052875116598115,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2005,93.72199707031248,Literacy Rate,71.9,Social,up,0.4286395252330108,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2006,94.2879974365234,Literacy Rate,71.9,Social,up,0.49675029930003706,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2007,94.2879974365234,Literacy Rate,71.9,Social,up,0.49675029930003706,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2008,95.4199981689453,Literacy Rate,71.9,Social,up,0.6329718474340981,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2009,96.25499725341794,Literacy Rate,71.9,Social,up,0.7334531145566302,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2010,97.0899963378906,Literacy Rate,71.9,Social,up,0.8339343816791639,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2011,96.85999806722003,Literacy Rate,71.9,Social,up,0.806257084658455,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2012,96.62999979654948,Literacy Rate,71.9,Social,up,0.7785797876377478,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2013,96.4000015258789,Literacy Rate,71.9,Social,up,0.7509024906170372,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2014,97.29000091552734,Literacy Rate,71.9,Social,up,0.8580023282972606,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2015,98.1800003051758,Literacy Rate,71.9,Social,up,0.9651021659774858,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2016,97.70499992370608,Literacy Rate,71.9,Social,up,0.9079420551446618,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2017,97.22999954223636,Literacy Rate,71.9,Social,up,0.8507819443118361,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2018,96.75499916076664,Literacy Rate,71.9,Social,up,0.793621833479012,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2019,96.2799987792969,Literacy Rate,71.9,Social,up,0.7364617226461847,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2020,98.4700012207031,Literacy Rate,71.9,Social,up,1.0,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2021,98.4700012207031,Literacy Rate,71.9,Social,up,1.0,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2022,98.4700012207031,Literacy Rate,71.9,Social,up,1.0,21,%
+Philippines,PHL,"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,2023,98.4700012207031,Literacy Rate,71.9,Social,up,1.0,21,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,89.4548341262217,School Enrollment,69.9,Social,up,0.7840260411828982,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,90.1583347107672,School Enrollment,69.9,Social,up,0.8132460438869806,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,91.0725198149335,School Enrollment,69.9,Social,up,0.8512168598359514,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,92.8377710790826,School Enrollment,69.9,Social,up,0.9245368368835111,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,94.654621676317,School Enrollment,69.9,Social,up,1.0,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,93.1921389514105,School Enrollment,69.9,Social,up,0.9392555598172676,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,92.7690209240401,School Enrollment,69.9,Social,up,0.9216812888422176,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,93.4123434096522,School Enrollment,69.9,Social,up,0.948401785146178,22,%
+Vietnam,VNM,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,93.4123434096522,School Enrollment,69.9,Social,up,0.948401785146178,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2001,70.5786285400391,School Enrollment,69.9,Social,up,0.0,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2002,74.9138336181641,School Enrollment,69.9,Social,up,0.18006339566498206,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2003,76.8219680786133,School Enrollment,69.9,Social,up,0.2593180477845658,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2004,78.5408630371094,School Enrollment,69.9,Social,up,0.33071260869703184,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2005,78.3063812255859,School Enrollment,69.9,Social,up,0.32097337134984266,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2006,76.9573211669922,School Enrollment,69.9,Social,up,0.26493995869028686,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2007,77.0709991455078,School Enrollment,69.9,Social,up,0.2696615906442479,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2008,78.008903503418,School Enrollment,69.9,Social,up,0.3086175893688428,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2009,80.1762771606445,School Enrollment,69.9,Social,up,0.3986397805598135,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2010,80.45382801488844,School Enrollment,69.9,Social,up,0.41016789708123436,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2011,80.73137886913239,School Enrollment,69.9,Social,up,0.42169601360265524,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2012,81.00892972337631,School Enrollment,69.9,Social,up,0.4332241301240755,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2013,81.00892972337631,School Enrollment,69.9,Social,up,0.4332241301240755,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2014,81.5640314318642,School Enrollment,69.9,Social,up,0.4562803631669173,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2015,82.0085254812081,School Enrollment,69.9,Social,up,0.4747424904331913,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2016,82.7837574272484,School Enrollment,69.9,Social,up,0.5069418660374392,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2017,80.9227600097656,School Enrollment,69.9,Social,up,0.42964505809481524,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2018,79.3622469757001,School Enrollment,69.9,Social,up,0.36482891426089376,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2019,85.3821865979599,School Enrollment,69.9,Social,up,0.6148680128843647,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2020,87.9419879481158,School Enrollment,69.9,Social,up,0.7211897473883825,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2021,85.8666475631511,School Enrollment,69.9,Social,up,0.6349901720181125,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2022,92.291271176651,School Enrollment,69.9,Social,up,0.9018378811503773,22,%
+Philippines,PHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,2023,91.5493424610693,School Enrollment,69.9,Social,up,0.8710217602376433,22,%
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2000,34.0,Patent Applications,55.6,Social,up,0.0,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2001,52.0,Patent Applications,55.6,Social,up,0.01744186046511628,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2002,69.0,Patent Applications,55.6,Social,up,0.03391472868217054,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2003,78.0,Patent Applications,55.6,Social,up,0.04263565891472868,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2004,103.0,Patent Applications,55.6,Social,up,0.06686046511627906,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2005,180.0,Patent Applications,55.6,Social,up,0.14147286821705427,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2006,196.0,Patent Applications,55.6,Social,up,0.1569767441860465,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2007,219.0,Patent Applications,55.6,Social,up,0.17926356589147288,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2008,204.0,Patent Applications,55.6,Social,up,0.16472868217054262,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2009,258.0,Patent Applications,55.6,Social,up,0.21705426356589147,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2010,306.0,Patent Applications,55.6,Social,up,0.26356589147286824,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2011,300.0,Patent Applications,55.6,Social,up,0.25775193798449614,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2012,382.0,Patent Applications,55.6,Social,up,0.3372093023255814,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2013,443.0,Patent Applications,55.6,Social,up,0.3963178294573643,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2014,487.0,Patent Applications,55.6,Social,up,0.438953488372093,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2015,582.0,Patent Applications,55.6,Social,up,0.5310077519379846,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2016,560.0,Patent Applications,55.6,Social,up,0.5096899224806202,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2017,592.0,Patent Applications,55.6,Social,up,0.5406976744186046,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2018,646.0,Patent Applications,55.6,Social,up,0.5930232558139535,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2019,720.0,Patent Applications,55.6,Social,up,0.6647286821705426,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2020,1021.0,Patent Applications,55.6,Social,up,0.9563953488372093,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2021,1066.0,Patent Applications,55.6,Social,up,1.0,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2022,1066.0,Patent Applications,55.6,Social,up,1.0,23,count
+Vietnam,VNM,"Patent applications, residents",IP.PAT.RESD,2023,1066.0,Patent Applications,55.6,Social,up,1.0,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2000,154.0,Patent Applications,55.6,Social,up,0.11627906976744186,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2001,135.0,Patent Applications,55.6,Social,up,0.09786821705426356,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2002,149.0,Patent Applications,55.6,Social,up,0.11143410852713179,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2003,141.0,Patent Applications,55.6,Social,up,0.10368217054263566,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2004,158.0,Patent Applications,55.6,Social,up,0.12015503875968993,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2005,210.0,Patent Applications,55.6,Social,up,0.17054263565891473,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2006,223.0,Patent Applications,55.6,Social,up,0.18313953488372092,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2007,225.0,Patent Applications,55.6,Social,up,0.18507751937984496,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2008,216.0,Patent Applications,55.6,Social,up,0.17635658914728683,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2009,172.0,Patent Applications,55.6,Social,up,0.13372093023255813,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2010,170.0,Patent Applications,55.6,Social,up,0.13178294573643412,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2011,186.0,Patent Applications,55.6,Social,up,0.14728682170542637,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2012,162.0,Patent Applications,55.6,Social,up,0.12403100775193798,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2013,220.0,Patent Applications,55.6,Social,up,0.18023255813953487,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2014,334.0,Patent Applications,55.6,Social,up,0.29069767441860467,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2015,375.0,Patent Applications,55.6,Social,up,0.33042635658914726,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2016,327.0,Patent Applications,55.6,Social,up,0.28391472868217055,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2017,323.0,Patent Applications,55.6,Social,up,0.2800387596899225,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2018,529.0,Patent Applications,55.6,Social,up,0.4796511627906977,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2019,501.0,Patent Applications,55.6,Social,up,0.45251937984496127,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2020,476.0,Patent Applications,55.6,Social,up,0.42829457364341084,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2021,490.0,Patent Applications,55.6,Social,up,0.4418604651162791,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2022,490.0,Patent Applications,55.6,Social,up,0.4418604651162791,23,count
+Philippines,PHL,"Patent applications, residents",IP.PAT.RESD,2023,490.0,Patent Applications,55.6,Social,up,0.4418604651162791,23,count
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2000,26.0,Women in Parliament,66.1,Social,up,0.7757533140114963,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2001,26.0,Women in Parliament,66.1,Social,up,0.7757533140114963,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2002,27.3092369477912,Women in Parliament,66.1,Social,up,0.8446632064438684,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2003,27.3092369477912,Women in Parliament,66.1,Social,up,0.8446632064438684,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2004,27.3092369477912,Women in Parliament,66.1,Social,up,0.8446632064438684,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2005,27.3092369477912,Women in Parliament,66.1,Social,up,0.8446632064438684,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2006,27.3092369477912,Women in Parliament,66.1,Social,up,0.8446632064438684,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2007,25.7606490872211,Women in Parliament,66.1,Social,up,0.7631554067487886,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2008,25.7606490872211,Women in Parliament,66.1,Social,up,0.7631554067487886,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2009,25.7606490872211,Women in Parliament,66.1,Social,up,0.7631554067487886,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2010,25.7606490872211,Women in Parliament,66.1,Social,up,0.7631554067487886,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2011,24.4,Women in Parliament,66.1,Social,up,0.691539506818072,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2012,24.4,Women in Parliament,66.1,Social,up,0.691539506818072,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2013,24.4,Women in Parliament,66.1,Social,up,0.691539506818072,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2014,24.2971887550201,Women in Parliament,66.1,Social,up,0.6861281778417887,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2015,24.2971887550201,Women in Parliament,66.1,Social,up,0.6861281778417887,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2016,26.7206477732794,Women in Parliament,66.1,Social,up,0.8136836219073225,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2017,26.7206477732794,Women in Parliament,66.1,Social,up,0.8136836219073225,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2018,26.7206477732794,Women in Parliament,66.1,Social,up,0.8136836219073225,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2019,26.7206477732794,Women in Parliament,66.1,Social,up,0.8136836219073225,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2020,26.7206477732794,Women in Parliament,66.1,Social,up,0.8136836219073225,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2021,30.2605210420842,Women in Parliament,66.1,Social,up,1.0,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2022,30.2605210420842,Women in Parliament,66.1,Social,up,1.0,28,%
+Vietnam,VNM,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2023,30.2605210420842,Women in Parliament,66.1,Social,up,1.0,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2000,11.2612612612613,Women in Parliament,66.1,Social,up,0.0,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2001,17.7570093457944,Women in Parliament,66.1,Social,up,0.34189479797995354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2002,17.7570093457944,Women in Parliament,66.1,Social,up,0.34189479797995354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2003,17.7570093457944,Women in Parliament,66.1,Social,up,0.34189479797995354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2004,15.2542372881356,Women in Parliament,66.1,Social,up,0.21016482078447354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2005,15.2542372881356,Women in Parliament,66.1,Social,up,0.21016482078447354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2006,15.2542372881356,Women in Parliament,66.1,Social,up,0.21016482078447354,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2007,20.5020920502092,Women in Parliament,66.1,Social,up,0.4863784639796982,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2008,20.5020920502092,Women in Parliament,66.1,Social,up,0.4863784639796982,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2009,20.9737827715356,Women in Parliament,66.1,Social,up,0.5112052586426411,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2010,22.1428571428571,Women in Parliament,66.1,Social,up,0.5727378859559177,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2011,22.887323943662,Women in Parliament,66.1,Social,up,0.6119218757214735,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2012,22.887323943662,Women in Parliament,66.1,Social,up,0.6119218757214735,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2013,27.3356401384083,Women in Parliament,66.1,Social,up,0.8460529021963183,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2014,27.3356401384083,Women in Parliament,66.1,Social,up,0.8460529021963183,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2015,27.2413793103448,Women in Parliament,66.1,Social,up,0.8410916126960483,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2016,29.7945205479452,Women in Parliament,66.1,Social,up,0.9754727026465861,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2017,29.4520547945205,Women in Parliament,66.1,Social,up,0.9574474870657996,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2018,29.4520547945205,Women in Parliament,66.1,Social,up,0.9574474870657996,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2019,27.9605263157895,Women in Parliament,66.1,Social,up,0.8789429297337035,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2020,27.9605263157895,Women in Parliament,66.1,Social,up,0.8789429297337035,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2021,27.9605263157895,Women in Parliament,66.1,Social,up,0.8789429297337035,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2022,27.3311897106109,Women in Parliament,66.1,Social,up,0.8458186600285317,28,%
+Philippines,PHL,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,2023,27.3311897106109,Women in Parliament,66.1,Social,up,0.8458186600285317,28,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2000,0.254248,Internet Users,63.5,Social,up,0.0,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2001,1.26565,Internet Users,63.5,Social,up,0.012110879782668452,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2002,1.855,Internet Users,63.5,Social,up,0.01916796193191836,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2003,3.78028,Internet Users,63.5,Social,up,0.04222193515717985,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2004,7.64241,Internet Users,63.5,Social,up,0.0884684248171146,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2005,12.7399,Internet Users,63.5,Social,up,0.14950754534817406,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2006,17.2546,Internet Users,63.5,Social,up,0.20356813545459393,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2007,20.7554,Internet Users,63.5,Social,up,0.24548793385638248,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2008,23.92,Internet Users,63.5,Social,up,0.28338195637189323,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2009,26.55,Internet Users,63.5,Social,up,0.31487449230559517,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2010,30.65,Internet Users,63.5,Social,up,0.36396932018703165,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2011,35.07,Internet Users,63.5,Social,up,0.41689593951287307,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2012,36.8,Internet Users,63.5,Social,up,0.4376115620091865,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2013,38.5,Internet Users,63.5,Social,up,0.45796795405758706,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,41.0,Internet Users,63.5,Social,up,0.48790382471699956,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,45.0,Internet Users,63.5,Social,up,0.5358012177720596,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,53.0,Internet Users,63.5,Social,up,0.6315960038821796,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,58.14,Internet Users,63.5,Social,up,0.6931441539579317,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,69.8479,Internet Users,63.5,Social,up,0.8333386259952659,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,68.6616,Internet Users,63.5,Social,up,0.8191334566499616,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,70.3,Internet Users,63.5,Social,up,0.8387522288453141,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,74.21,Internet Users,63.5,Social,up,0.8855719305566352,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,78.59,Internet Users,63.5,Social,up,0.9380195759519261,29,%
+Vietnam,VNM,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,78.08,Internet Users,63.5,Social,up,0.9319126583374059,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2000,1.98225,Internet Users,63.5,Social,up,0.02069169774848246,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2001,2.52401,Internet Users,63.5,Social,up,0.02717892066385979,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2002,4.33228,Internet Users,63.5,Social,up,0.048831775398778136,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2003,4.85767,Internet Users,63.5,Social,up,0.05512297823307763,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2004,5.24363,Internet Users,63.5,Social,up,0.05974459768896037,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2005,5.39764,Internet Users,63.5,Social,up,0.061588767065062826,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2006,5.74059,Internet Users,63.5,Social,up,0.06569536980212104,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2007,5.97,Internet Users,63.5,Social,up,0.06844240503731136,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2008,6.22,Internet Users,63.5,Social,up,0.07143599210325262,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2009,9.0,Internet Users,63.5,Social,up,0.10472468027651932,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2010,25.0,Internet Users,63.5,Social,up,0.2963142524967594,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2011,29.0,Internet Users,63.5,Social,up,0.34421164555181943,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2012,30.8,Internet Users,63.5,Social,up,0.36576547242659646,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2013,32.7,Internet Users,63.5,Social,up,0.38851673412775,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2014,34.7,Internet Users,63.5,Social,up,0.41246543065528,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2015,36.9,Internet Users,63.5,Social,up,0.438808996835563,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2016,39.2,Internet Users,63.5,Social,up,0.4663499978422226,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2017,41.6,Internet Users,63.5,Social,up,0.49508843367525857,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2018,44.1,Internet Users,63.5,Social,up,0.5250243043346711,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2019,43.0266,Internet Users,63.5,Social,up,0.5121710389083457,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2020,53.7649,Internet Users,63.5,Social,up,0.6407551828691335,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2021,66.9078,Internet Users,63.5,Social,up,0.7981328446649704,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2022,75.2111,Internet Users,63.5,Social,up,0.8975594506034905,29,%
+Philippines,PHL,Individuals using the Internet (% of population),IT.NET.USER.ZS,2023,83.7661,Internet Users,63.5,Social,up,1.0,29,%
