@@ -19,7 +19,7 @@ The dashboard combines two visualization tools: a 3-page interactive Power BI re
 
 | Resource | URL |
 |----------|-----|
-| Streamlit Dashboard | https://nericee03-sofi-dashboard.streamlit.app |
+| Streamlit Dashboard | https://sofi-dashboard-yjudh8rfyvmggfvrrdz4yp.streamlit.app/|
 | Power BI Dashboard | https://app.powerbi.com/view?r=eyJrIjoiYzBlOGEwYTItOTIxZC00NGY1LTg3NjctNmNiOGJjYmY0NTcxIiwidCI6IjExMTNiZTM0LWFlZDEtNGQwMC1hYjRiLWNkZDAyNTEwYmU5MSIsImMiOjN9 |
 | GitHub Repository | https://github.com/nericee03/sofi-dashboard |
 | Dataset — World Bank WDI | https://data.worldbank.org/indicator |
